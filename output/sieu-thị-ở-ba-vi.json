@@ -1,0 +1,222 @@
+[
+    {
+        "title": "Lan Chi Supermarket",
+        "link": "https://www.google.com/maps/place/Lan+Chi+Supermarket/data=!4m7!3m6!1s0x3134f4b44d0fc4ed:0x1acf9771d2c839d!8m2!3d21.2060602!4d105.4158321!16s%2Fg%2F11r8bfqry!19sChIJ7cQPTbT0NDERnYMsHXf5rAE?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 3.9,
+        "reviews": 621,
+        "website": "http://lanchi.vn/",
+        "phone": "0916 603 888",
+        "address": "6C48+C8G Lan Chi Supermarket, QL32, V\u1eadt L\u1ea1i, Ba V\u00ec, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "VM+. Th\u00e0nh C\u00f4ng",
+        "link": "https://www.google.com/maps/place/VM%2B.+Th%C3%A0nh+C%C3%B4ng/data=!4m7!3m6!1s0x3134f3baf3c3d5b7:0xd191a438fd1ecd91!8m2!3d21.3120285!4d105.4167827!16s%2Fg%2F11jj56p4pk!19sChIJt9XD87rzNDERkc0e_TikkdE?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 2,
+        "reviews": 2,
+        "website": null,
+        "phone": null,
+        "address": "VM+. Th\u00e0nh C\u00f4ng, 292 \u0110. Nguy\u1ec5n T\u1ea5t Th\u00e0nh, Ph.Th\u1ecd S\u01a1n, Th\u00e0nh ph\u1ed1 Vi\u1ec7t Tr\u00ec, Ph\u00fa Th\u1ecd"
+    },
+    {
+        "title": "Si\u00eau Th\u1ecb \u0110\u1ec7m Ba V\u00ec",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+Th%E1%BB%8B+%C4%90%E1%BB%87m+Ba+V%C3%AC/data=!4m7!3m6!1s0x3134f4e17d3011b1:0x1f480440c21fd9b4!8m2!3d21.1894154!4d105.4360035!16s%2Fg%2F11bccmc2jt!19sChIJsREwfeH0NDERtNkfwkAESB8?authuser=0&hl=en&rclk=1",
+        "main_category": "Grocery store",
+        "rating": null,
+        "reviews": null,
+        "website": null,
+        "phone": "0374 456 869",
+        "address": "Si\u00eau Th\u1ecb \u0110\u1ec7m Ba V\u00ec, 483 QL32, Chu Minh, Ba V\u00ec, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Si\u00eau Th\u1ecb \u0110i\u1ec7n M\u00e1y Th\u1ee7y C\u01b0\u1eddng",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+Th%E1%BB%8B+%C4%90i%E1%BB%87n+M%C3%A1y+Th%E1%BB%A7y+C%C6%B0%E1%BB%9Dng/data=!4m7!3m6!1s0x31348b66636d7973:0xdb7a02c4f0c534c3!8m2!3d21.2261545!4d105.3801676!16s%2Fg%2F11c5sspn0f!19sChIJc3ltY2aLNDERwzTF8MQCets?authuser=0&hl=en&rclk=1",
+        "main_category": "Electrical appliance wholesaler",
+        "rating": null,
+        "reviews": null,
+        "website": null,
+        "phone": "0983 432 171",
+        "address": "69GJ+F37 Si\u00eau Th\u1ecb \u0110i\u1ec7n M\u00e1y Th\u1ee7y C\u01b0\u1eddng, Ph\u1ed1 Nh\u00f4ng, Ba V\u00ec, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "WinMart+",
+        "link": "https://www.google.com/maps/place/WinMart%2B/data=!4m7!3m6!1s0x3134f50729c91c03:0x50a53b2aafa4eadb!8m2!3d21.19096!4d105.4342756!16s%2Fg%2F11sh66m_g4!19sChIJAxzJKQf1NDER2-qkryo7pVA?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": null,
+        "reviews": null,
+        "website": "http://winmart.vn/",
+        "phone": "024 7106 6866",
+        "address": "5CRM+9PJ WinMart+, Qu\u1ea3ng Oai, Ba V\u00ec, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "L\u1ef1c Ti\u1ebfn Plaza",
+        "link": "https://www.google.com/maps/place/L%E1%BB%B1c+Ti%E1%BA%BFn+Plaza/data=!4m7!3m6!1s0x3134f4e22b415ba3:0xc74b656e3ab82de9!8m2!3d21.1873244!4d105.4374714!16s%2Fg%2F11b5wktd07!19sChIJo1tBK-L0NDER6S24Om5lS8c?authuser=0&hl=en&rclk=1",
+        "main_category": "Shopping mall",
+        "rating": 4.1,
+        "reviews": 420,
+        "website": "http://luctien.vn/",
+        "phone": "1900 1266",
+        "address": "5CPP+WXH L\u1ef1c Ti\u1ebfn Plaza, QL32, Chu Minh, Ba V\u00ec, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Th\u1ef1c Ph\u1ea9m Xanh Mart",
+        "link": "https://www.google.com/maps/place/Th%E1%BB%B1c+Ph%E1%BA%A9m+Xanh+Mart/data=!4m7!3m6!1s0x31345f27aff3aafd:0xf5787342cf912e0b!8m2!3d21.0963372!4d105.4351382!16s%2Fg%2F11sbw7dly9!19sChIJ_arzrydfNDERCy6Rz0JzePU?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": null,
+        "reviews": null,
+        "website": "https://www.facebook.com/Truongbichlien87?mibextid=LQQJ4d",
+        "phone": "0987 756 550",
+        "address": "3CWP+H32 Th\u1ef1c Ph\u1ea9m Xanh Mart, V\u00e2n Ho\u00e0, Ba V\u00ec, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "\u0110\u1ed3 g\u1ed7 H\u1eefu M\u1ebfn",
+        "link": "https://www.google.com/maps/place/%C4%90%E1%BB%93+g%E1%BB%97+H%E1%BB%AFu+M%E1%BA%BFn/data=!4m7!3m6!1s0x3134f341b1c9cd57:0x48c24c6a9952a381!8m2!3d21.247485!4d105.422963!16s%2Fg%2F11fjzhbv7z!19sChIJV83JsUHzNDERgaNSmWpMwkg?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 5,
+        "reviews": 2,
+        "website": null,
+        "phone": "0987 434 685",
+        "address": "\u0110\u1ed3 g\u1ed7 H\u1eefu M\u1ebfn, x\u00f3m 3, Ba V\u00ec, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Nutri Mart+",
+        "link": "https://www.google.com/maps/place/Nutri+Mart%2B/data=!4m7!3m6!1s0x31345f0acca65967:0x93a58cb956a2f515!8m2!3d21.1039105!4d105.4146287!16s%2Fg%2F11ryhnv24g!19sChIJZ1mmzApfNDERFfWiVrmMpZM?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 5,
+        "reviews": 2,
+        "website": null,
+        "phone": "0942 886 892",
+        "address": "4C37+HV6 Nutri Mart+, T\u00e2n L\u0129nh, Ba V\u00ec, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "L\u1ec7 H\u1eb1ng Mart",
+        "link": "https://www.google.com/maps/place/L%E1%BB%87+H%E1%BA%B1ng+Mart/data=!4m7!3m6!1s0x31345f44ff5dc203:0x80dee62ef1e8ae9c!8m2!3d21.0759066!4d105.4232846!16s%2Fg%2F11t062f836!19sChIJA8Jd_0RfNDERnK7o8S7m3oA?authuser=0&hl=en&rclk=1",
+        "main_category": "Variety store",
+        "rating": 4.3,
+        "reviews": 3,
+        "website": null,
+        "phone": "0984 196 886",
+        "address": "3CGF+987 L\u1ec7 H\u1eb1ng Mart, V\u00e2n Ho\u00e0, Ba V\u00ec, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Viettel shop",
+        "link": "https://www.google.com/maps/place/Viettel+shop/data=!4m7!3m6!1s0x3134f334e502f24b:0x89571bcd84062aa0!8m2!3d21.2452568!4d105.4219257!16s%2Fg%2F11j4ltwmj6!19sChIJS_IC5TTzNDERoCoGhM0bV4k?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 5,
+        "reviews": 1,
+        "website": "https://viettel.vn/lan-toa/goi-cuoc?kh=Hni1_tttlm_vtp_00003_db",
+        "phone": null,
+        "address": "6CWC+4Q3 Viettel shop, Ph\u01b0\u01a1ng Ch\u00e2u, Ba V\u00ec, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "H\u00f9ng Hi\u1ec7p Store",
+        "link": "https://www.google.com/maps/place/H%C3%B9ng+Hi%E1%BB%87p+Store/data=!4m7!3m6!1s0x31348b979fe09e57:0x8574a3da79c449d7!8m2!3d21.1672473!4d105.330062!16s%2Fg%2F11j2ywy1lj!19sChIJV57gn5eLNDER10nEedqjdIU?authuser=0&hl=en&rclk=1",
+        "main_category": "Grocery store",
+        "rating": 3,
+        "reviews": 3,
+        "website": null,
+        "phone": "0333 897 968",
+        "address": "588J+V2V H\u00f9ng Hi\u1ec7p Store, Unnamed, Road, Ba V\u00ec, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Si\u00eau th\u1ecb \u0110i\u1ec7n m\u00e1y XANH",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+th%E1%BB%8B+%C4%90i%E1%BB%87n+m%C3%A1y+XANH/data=!4m7!3m6!1s0x3134f4dd02df7495:0xd46ce0ab87d0be8!8m2!3d21.1941105!4d105.429611!16s%2Fg%2F11b_2tyvwn!19sChIJlXTfAt30NDER6At9uArORg0?authuser=0&hl=en&rclk=1",
+        "main_category": "Electronics store",
+        "rating": 4.3,
+        "reviews": 144,
+        "website": "https://www.dienmayxanh.com/?utm_source=GMB_list&utm_medium=organic&utm_campaign=GMB_website",
+        "phone": "1800 1061",
+        "address": "Si\u00eau th\u1ecb \u0110i\u1ec7n m\u00e1y XANH, 406 Qu\u1ea3ng Oai, Chu Minh, Ba V\u00ec, H\u00e0 N\u1ed9i 10000"
+    },
+    {
+        "title": "Thang Tan Electronics",
+        "link": "https://www.google.com/maps/place/Thang+Tan+Electronics/data=!4m7!3m6!1s0x3134f4b640000001:0x37d30c1f2a3183d4!8m2!3d21.210681!4d105.4132283!16s%2Fg%2F1pzph39_q!19sChIJAQAAQLb0NDER1IMxKh8M0zc?authuser=0&hl=en&rclk=1",
+        "main_category": "Electronics store",
+        "rating": 3.7,
+        "reviews": 58,
+        "website": null,
+        "phone": "0942 612 662",
+        "address": "6C67+77H Thang Tan Electronics, V\u1eadt Ph\u1ee5, X\u00e3 V\u1eadt L\u1ea1i, Huy\u1ec7n Ba V\u00ec, V\u1eadt L\u1ea1i, Ba V\u00ec, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Si\u00eau th\u1ecb \u0110i\u1ec7n m\u00e1y XANH Ph\u1ed1 Nh\u00f4ng, Ba V\u00ec",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+th%E1%BB%8B+%C4%90i%E1%BB%87n+m%C3%A1y+XANH+Ph%E1%BB%91+Nh%C3%B4ng,+Ba+V%C3%AC/data=!4m7!3m6!1s0x31348b666221225f:0x8eea1a2c6f6007c1!8m2!3d21.2277282!4d105.3767659!16s%2Fg%2F11dxbcrck6!19sChIJXyIhYmaLNDERwQdgbywa6o4?authuser=0&hl=en&rclk=1",
+        "main_category": "Electronics store",
+        "rating": 4.5,
+        "reviews": 47,
+        "website": "https://www.dienmayxanh.com/?utm_source=GMB_list&utm_medium=organic&utm_campaign=GMB_website",
+        "phone": "1800 1061",
+        "address": "Si\u00eau th\u1ecb \u0110i\u1ec7n m\u00e1y XANH Ph\u1ed1 Nh\u00f4ng, Ba V\u00ec, Ph\u1ed1 Nh\u00f4ng, Ba V\u00ec, H\u00e0 N\u1ed9i 10000"
+    },
+    {
+        "title": "V\u0103n Ph\u00f2ng Ph\u1ea9m H\u1ed3ng Ph\u01b0\u01a1ng",
+        "link": "https://www.google.com/maps/place/V%C4%83n+Ph%C3%B2ng+Ph%E1%BA%A9m+H%E1%BB%93ng+Ph%C6%B0%C6%A1ng/data=!4m7!3m6!1s0x3134617ffac2758d:0x15443ef64581bf47!8m2!3d21.1217355!4d105.3651103!16s%2Fg%2F11gsbh58wp!19sChIJjXXC-n9hNDERR7-BRfY-RBU?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 5,
+        "reviews": 3,
+        "website": null,
+        "phone": "0962 668 598",
+        "address": "49C8+M2X V\u0103n Ph\u00f2ng Ph\u1ea9m H\u1ed3ng Ph\u01b0\u01a1ng, Ba Tr\u1ea1i, Ba V\u00ec, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Ph\u00fa Trang' s MiniMart",
+        "link": "https://www.google.com/maps/place/Ph%C3%BA+Trang%27+s+MiniMart/data=!4m7!3m6!1s0x31348bbf9bc5594f:0x9a6f0123db184ba4!8m2!3d21.2255608!4d105.3809835!16s%2Fg%2F11n7cxy9r9!19sChIJT1nFm7-LNDERpEsY2yMBb5o?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4,
+        "reviews": 1,
+        "website": null,
+        "phone": "0976 899 630",
+        "address": "69GJ+69H Ph\u00fa Trang' s MiniMart, \u0110\u00f4ng H\u1eefu, Ba V\u00ec, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "C\u1eeda h\u00e0ng H\u00c0 L\u1ee4A",
+        "link": "https://www.google.com/maps/place/C%E1%BB%ADa+h%C3%A0ng+H%C3%80+L%E1%BB%A4A/data=!4m7!3m6!1s0x3134f52f1425697f:0xfe158e9871da86e!8m2!3d21.1570983!4d105.4130669!16s%2Fg%2F11q2qzhbkk!19sChIJf2klFC_1NDERbqgdh-lY4Q8?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4.5,
+        "reviews": 2,
+        "website": null,
+        "phone": "0972 174 184",
+        "address": "C\u1eeda h\u00e0ng H\u00c0 L\u1ee4A, C\u1eeda H\u00e0ng Nh\u1ef1a Ti\u1ec1n Phong, \u0110\u01b0\u1eddng 413, Quy\u1ebft Ti\u1ebfn, Ba V\u00ec, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "T\u00e2m H\u1eb1ng tea",
+        "link": "https://www.google.com/maps/place/T%C3%A2m+H%E1%BA%B1ng+tea/data=!4m7!3m6!1s0x31345fdc5ae7eb39:0xc5742200c935b5f3!8m2!3d21.0781405!4d105.4340183!16s%2Fg%2F11j96v96rh!19sChIJOevnWtxfNDER87U1yQAidMU?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4,
+        "reviews": 1,
+        "website": null,
+        "phone": "0976 743 776",
+        "address": "T\u00e2m H\u1eb1ng tea, V\u00e2n Ho\u00e0, Ba V\u00ec, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Mobile World supermarket",
+        "link": "https://www.google.com/maps/place/Mobile+World+supermarket/data=!4m7!3m6!1s0x3134f4cce1f99415:0x9f4e37c937526194!8m2!3d21.2151476!4d105.4087593!16s%2Fg%2F11cnq5g2k1!19sChIJFZT54cz0NDERlGFSN8k3Tp8?authuser=0&hl=en&rclk=1",
+        "main_category": "Cell phone store",
+        "rating": 4.6,
+        "reviews": 23,
+        "website": "http://www.thegioididong.com/",
+        "phone": "1800 1060",
+        "address": "Mobile World supermarket, Th\u00f4n T\u00e2n Ph\u00fa M\u1ef9, V\u1eadt L\u1ea1i, Ba V\u00ec, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Local steet market",
+        "link": "https://www.google.com/maps/place/Local+steet+market/data=!4m7!3m6!1s0x3134f5715f9fabad:0x87571e93c91d33b9!8m2!3d21.1566135!4d105.412178!16s%2Fg%2F11h12gxqtm!19sChIJraufX3H1NDERuTMdyZMeV4c?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": null,
+        "reviews": null,
+        "website": null,
+        "phone": null,
+        "address": "H\u00e0 N\u1ed9i, Ba V\u00ec, Unnamed Road Local steet market"
+    },
+    {
+        "title": "GO! Vi\u1ec7t Tr\u00ec",
+        "link": "https://www.google.com/maps/place/GO!+Vi%E1%BB%87t+Tr%C3%AC/data=!4m7!3m6!1s0x3134f2be07a334c9:0x48b436b4f0714556!8m2!3d21.3064074!4d105.431927!16s%2Fg%2F12hlt42vq!19sChIJyTSjB77yNDERVkVx8LQ2tEg?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4.2,
+        "reviews": 1846,
+        "website": "http://bigc.vn/store/big-c-viet-tri-14.html",
+        "phone": "0210 3639 639",
+        "address": "GO! Vi\u1ec7t Tr\u00ec, \u0110\u01b0\u1eddng \u0110. Nguy\u1ec5n T\u1ea5t Th\u00e0nh, Ph. Thanh Mi\u1ebfu, Th\u00e0nh ph\u1ed1 Vi\u1ec7t Tr\u00ec, Ph\u00fa Th\u1ecd"
+    }
+]

@@ -1,0 +1,552 @@
+[
+    {
+        "title": "WinMart",
+        "link": "https://www.google.com/maps/place/WinMart/data=!4m7!3m6!1s0x3135ac1b54c55ab5:0xa56e87ad85e5abaf!8m2!3d20.9940169!4d105.8696715!16s%2Fg%2F1pzwcxks6!19sChIJtVrFVBusNTERr6vlha2HbqU?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4.3,
+        "reviews": 986,
+        "website": "https://winmart.vn/",
+        "phone": "024 7300 0777",
+        "address": "WinMart, 458 P. Minh Khai, Khu \u0111\u00f4 th\u1ecb Times City, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 100000"
+    },
+    {
+        "title": "V + Hypermarket",
+        "link": "https://www.google.com/maps/place/V+%2B+Hypermarket/data=!4m7!3m6!1s0x3135ac03ff7a9f93:0x32d813ced6251320!8m2!3d20.9996788!4d105.8704765!16s%2Fg%2F11fxb8qlv6!19sChIJk596_wOsNTERIBMl1s4T2DI?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4.1,
+        "reviews": 108,
+        "website": null,
+        "phone": null,
+        "address": "V + Hypermarket, 505 P. Minh Khai, V\u0129nh Ph\u00fa, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 100000"
+    },
+    {
+        "title": "Si\u00eau th\u1ecb Th\u00e0nh \u0110\u00f4",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+th%E1%BB%8B+Th%C3%A0nh+%C4%90%C3%B4/data=!4m7!3m6!1s0x3135ad94f0e65561:0xededd9e4a0098009!8m2!3d21.0028772!4d105.8653841!16s%2Fg%2F11hym3cq2q!19sChIJYVXm8JStNTERCYAJoOTZ7e0?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4,
+        "reviews": 314,
+        "website": null,
+        "phone": null,
+        "address": "Si\u00eau th\u1ecb Th\u00e0nh \u0110\u00f4, 27 P. L\u1ea1c Trung, V\u0129nh Tuy, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Aeon Citimart",
+        "link": "https://www.google.com/maps/place/Aeon+Citimart/data=!4m7!3m6!1s0x3135ab5dbf9e9175:0xfafda01ff2415eb8!8m2!3d21.0253108!4d105.8458978!16s%2Fg%2F11hdjf7zxv!19sChIJdZGev12rNTERuF5B8h-g_fo?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 3.7,
+        "reviews": 44,
+        "website": "http://www.aeoncitimart.vn/",
+        "phone": "024 3934 2999",
+        "address": "Aeon Citimart, 49 P. Hai B\u00e0 Tr\u01b0ng, Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "WinMart",
+        "link": "https://www.google.com/maps/place/WinMart/data=!4m7!3m6!1s0x3135ac6e281b09ad:0x400786ca94880d30!8m2!3d20.996457!4d105.8447063!16s%2Fg%2F1tdbhgl_!19sChIJrQkbKG6sNTERMA2IlMqGB0A?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4.1,
+        "reviews": 804,
+        "website": "http://winmart.vn/",
+        "phone": "024 7106 6866",
+        "address": "WinMart, 163A P. \u0110\u1ea1i La, \u0110\u1ed3ng T\u00e2m, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Hanoi Mart",
+        "link": "https://www.google.com/maps/place/Hanoi+Mart/data=!4m7!3m6!1s0x3135abfa480043a9:0xf456d754bb496f0e!8m2!3d21.0131647!4d105.8664687!16s%2Fg%2F1pzyq4d6_!19sChIJqUMASPqrNTERDm9Ju1TXVvQ?authuser=0&hl=en&rclk=1",
+        "main_category": "Convenience store",
+        "rating": 4,
+        "reviews": 6,
+        "website": null,
+        "phone": "0936 150 484",
+        "address": "2V78+7H8 Hanoi Mart, Kho C\u1ea3ng H\u00e0 N\u1ed9i, B\u1ea1ch \u0110\u1eb1ng, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng, B\u1ea1ch \u0110\u1eb1ng, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "WinMart+",
+        "link": "https://www.google.com/maps/place/WinMart%2B/data=!4m7!3m6!1s0x3135ac129e9bbb83:0xc06246e1af13695c!8m2!3d20.995239!4d105.854304!16s%2Fg%2F11c6wxh4rw!19sChIJg7ubnhKsNTERXGkTr-FGYsA?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4.5,
+        "reviews": 32,
+        "website": null,
+        "phone": "024 7106 6866",
+        "address": "WinMart+, S\u1ed1 194 P. Minh Khai, t\u1ed5 14, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 11619"
+    },
+    {
+        "title": "Si\u00eau Th\u1ecb Le's Mart",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+Th%E1%BB%8B+Le%27s+Mart/data=!4m7!3m6!1s0x3135ab8ba6cfd689:0x18739cd15934b8c1!8m2!3d21.0115128!4d105.8493494!16s%2Fg%2F1pzw2nr3d!19sChIJidbPpourNTERwbg0WdGccxg?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4,
+        "reviews": 1,
+        "website": null,
+        "phone": null,
+        "address": "Si\u00eau Th\u1ecb Le's Mart, T\u1ea7ng L3, Vincom Tower, 191, \u0110\u01b0\u1eddng B\u00e0 Tri\u1ec7u, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng, L\u00ea \u0110\u1ea1i H\u00e0nh, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "WinMart+",
+        "link": "https://www.google.com/maps/place/WinMart%2B/data=!4m7!3m6!1s0x3135ad79636bf02d:0x5b4f849a63f9d0a3!8m2!3d21.000793!4d105.859192!16s%2Fg%2F11g6s887pn!19sChIJLfBrY3mtNTERo9D5Y5qET1s?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 3.8,
+        "reviews": 4,
+        "website": null,
+        "phone": "024 7106 6866",
+        "address": "WinMart+, 57 P. 8-3, P, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 11619"
+    },
+    {
+        "title": "J-Mart.vn Si\u00eau Th\u1ecb H\u00e0ng Nh\u1eadt",
+        "link": "https://www.google.com/maps/place/J-Mart.vn+Si%C3%AAu+Th%E1%BB%8B+H%C3%A0ng+Nh%E1%BA%ADt/data=!4m7!3m6!1s0x3135ab90db493405:0x6e891ddc6f63e07!8m2!3d21.0048666!4d105.8609448!16s%2Fg%2F11b7sv6mpd!19sChIJBTRJ25CrNTERBz72xt2R6AY?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 3.8,
+        "reviews": 13,
+        "website": null,
+        "phone": "0978 343 430",
+        "address": "J-Mart.vn Si\u00eau Th\u1ecb H\u00e0ng Nh\u1eadt, 114 P. Kim Ng\u01b0u, Thanh Nh\u00e0n, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 100000"
+    },
+    {
+        "title": "Si\u00eau Th\u1ecb Hapro Mart",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+Th%E1%BB%8B+Hapro+Mart/data=!4m7!3m6!1s0x3135ac08d8ac1be9:0xe13460f058ab1ff0!8m2!3d21.0013123!4d105.8612283!16s%2Fg%2F12mj_l7qw!19sChIJ6Rus2AisNTER8B-rWPBgNOE?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4.3,
+        "reviews": 12,
+        "website": null,
+        "phone": null,
+        "address": "Si\u00eau Th\u1ecb Hapro Mart, 105 P. Qu\u1ef3nh Mai, Qu\u1ef3nh Mai, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "\u0110i\u1ec7n M\u00e1y Xanh",
+        "link": "https://www.google.com/maps/place/%C4%90i%E1%BB%87n+M%C3%A1y+Xanh/data=!4m7!3m6!1s0x3135ab7f1af006c7:0x9e7669053947ef3f!8m2!3d21.0091473!4d105.8507831!16s%2Fg%2F11h7fnlj8p!19sChIJxwbwGn-rNTERP-9HOQVpdp4?authuser=0&hl=en&rclk=1",
+        "main_category": "Electronics store",
+        "rating": 4.5,
+        "reviews": 99,
+        "website": "https://www.dienmayxanh.com/?utm_source=GMB_list&utm_medium=organic&utm_campaign=GMB_website",
+        "phone": "1800 1061",
+        "address": "\u0110i\u1ec7n M\u00e1y Xanh, 2 \u0110\u1ea1i C\u1ed3 Vi\u1ec7t, L\u00ea \u0110\u1ea1i H\u00e0nh, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 10000"
+    },
+    {
+        "title": "WinMart+",
+        "link": "https://www.google.com/maps/place/WinMart%2B/data=!4m7!3m6!1s0x3135ac70c913e9eb:0x27218144197613c0!8m2!3d21.0019762!4d105.8424846!16s%2Fg%2F11dftfmz9z!19sChIJ6-kTyXCsNTERwBN2GUSBISc?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4.3,
+        "reviews": 30,
+        "website": "http://www.vinmart.com/",
+        "phone": "024 7106 6866",
+        "address": "WinMart+, S\u1ed1 242 Ng\u1ed7 132 Ph\u1ed1 L\u00ea Thanh Ngh\u1ecb, B\u00e1ch Khoa, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 11616"
+    },
+    {
+        "title": "WinMart+",
+        "link": "https://www.google.com/maps/place/WinMart%2B/data=!4m7!3m6!1s0x3135abed8b1ca82f:0x38f0a000838c789c!8m2!3d21.0186096!4d105.8567974!16s%2Fg%2F11ck65fvk6!19sChIJL6gci-2rNTERnHiMgwCg8Dg?authuser=0&hl=en&rclk=1",
+        "main_category": "Grocery store",
+        "rating": 4.1,
+        "reviews": 69,
+        "website": "http://winmart.vn/",
+        "phone": "024 7106 6866",
+        "address": "WinMart+, S\u1ed1 17A P.H\u00e0n Thuy\u00ean, T\u1ed5 2, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 11611"
+    },
+    {
+        "title": "Occident Mart",
+        "link": "https://www.google.com/maps/place/Occident+Mart/data=!4m7!3m6!1s0x3135ac04c388a0bd:0x2903406ab5c2d7cc!8m2!3d20.9959226!4d105.8688762!16s%2Fg%2F11c5558g3p!19sChIJvaCIwwSsNTERzNfCtWpAAyk?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4.4,
+        "reviews": 18,
+        "website": null,
+        "phone": "024 3201 2345",
+        "address": "Occident Mart, T6 Times City Building, SO - 05A, P. Minh Khai, V\u0129nh Ph\u00fa, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Si\u00eau th\u1ecb \u0110i\u1ec7n M\u00e1y - M\u00e1y t\u00ednh TIC",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+th%E1%BB%8B+%C4%90i%E1%BB%87n+M%C3%A1y+-+M%C3%A1y+t%C3%ADnh+TIC/data=!4m7!3m6!1s0x3135ac74f578b785:0x2ff1b9865332d7e!8m2!3d21.00337!4d105.8496052!16s%2Fg%2F1ptyjwfk3!19sChIJhbd49XSsNTERfi0zZZgb_wI?authuser=0&hl=en&rclk=1",
+        "main_category": "Business to business service",
+        "rating": null,
+        "reviews": null,
+        "website": "http://www.tic.vn/",
+        "phone": "024 3628 3451",
+        "address": "Si\u00eau th\u1ecb \u0110i\u1ec7n M\u00e1y - M\u00e1y t\u00ednh TIC, 117 P. L\u00ea Thanh Ngh\u1ecb, B\u00e1ch Khoa, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "BT Store H\u1ee3p T\u00e1c Kinh Doanh Chu\u1ed7i Si\u00eau Th\u1ecb",
+        "link": "https://www.google.com/maps/place/BT+Store+H%E1%BB%A3p+T%C3%A1c+Kinh+Doanh+Chu%E1%BB%97i+Si%C3%AAu+Th%E1%BB%8B/data=!4m7!3m6!1s0x3135abfec9727069:0x553614f2264d1e!8m2!3d21.0093613!4d105.8554284!16s%2Fg%2F11rc4nvjw4!19sChIJaXByyf6rNTERHk0m8hQ2VQA?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": null,
+        "reviews": null,
+        "website": null,
+        "phone": "0901 179 696",
+        "address": "BT Store H\u1ee3p T\u00e1c Kinh Doanh Chu\u1ed7i Si\u00eau Th\u1ecb, 434 Tr\u1ea7n Kh\u00e1t Ch\u00e2n, Ph\u1ed1 Hu\u1ebf, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "WinMart+",
+        "link": "https://www.google.com/maps/place/WinMart%2B/data=!4m7!3m6!1s0x3135ac6c67d80af5:0xaea821767bb1f6af!8m2!3d20.991539!4d105.848858!16s%2Fg%2F11fz_s0tly!19sChIJ9QrYZ2ysNTERr_axe3YhqK4?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4.4,
+        "reviews": 74,
+        "website": "http://winmart.vn/",
+        "phone": "024 7106 6866",
+        "address": "WinMart+, S\u1ed1 164 Tr\u01b0\u01a1ng \u0110\u1ecbnh, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 11617"
+    },
+    {
+        "title": "Si\u00eau Th\u1ecb Thi\u00ean Nhi\u00ean",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+Th%E1%BB%8B+Thi%C3%AAn+Nhi%C3%AAn/data=!4m7!3m6!1s0x3135ada7ffd31ad7:0xc2c5c7f651b2fbd4!8m2!3d21.0027723!4d105.8699889!16s%2Fg%2F11jrg__rcd!19sChIJ1xrT_6etNTER1PuyUfbHxcI?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": null,
+        "reviews": null,
+        "website": null,
+        "phone": null,
+        "address": "Si\u00eau Th\u1ecb Thi\u00ean Nhi\u00ean, 806 P. Minh Khai, Thanh L\u01b0\u01a1ng, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Shopbabyfun Si\u00eau th\u1ecb m\u1eb9 v\u00e0 b\u00e9",
+        "link": "https://www.google.com/maps/place/Shopbabyfun+Si%C3%AAu+th%E1%BB%8B+m%E1%BA%B9+v%C3%A0+b%C3%A9/data=!4m7!3m6!1s0x3135ac09b5eb04db:0xd9ea4dc8ea7f8949!8m2!3d21.0048553!4d105.8610333!16s%2Fg%2F1pxq9b4yy!19sChIJ2wTrtQmsNTERSYl_6shN6tk?authuser=0&hl=en&rclk=1",
+        "main_category": "Shopping mall",
+        "rating": 3.8,
+        "reviews": 8,
+        "website": "https://shopbabyfun.com.vn/",
+        "phone": "024 6278 3521",
+        "address": "Shopbabyfun Si\u00eau th\u1ecb m\u1eb9 v\u00e0 b\u00e9, 112 P. Kim Ng\u01b0u, Thanh Nh\u00e0n, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 100000"
+    },
+    {
+        "title": "Si\u00eau th\u1ecb H7 Mart",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+th%E1%BB%8B+H7+Mart/data=!4m7!3m6!1s0x3135ad033dad374b:0xde938ca9a20b4d0c!8m2!3d20.994174!4d105.843206!16s%2Fg%2F11t2ssd167!19sChIJSzetPQOtNTERDE0LoqmMk94?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": null,
+        "reviews": null,
+        "website": null,
+        "phone": null,
+        "address": "XRVV+M78 Si\u00eau th\u1ecb H7 Mart, Ng. 259 P. V\u1ecdng, Ph\u01b0\u01a1ng Li\u1ec7t, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Si\u00eau Th\u1ecb SIVIMART",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+Th%E1%BB%8B+SIVIMART/data=!4m7!3m6!1s0x3135ac75d4e481e5:0xeab5bd6ee2096f4e!8m2!3d21.0034742!4d105.8445107!16s%2Fg%2F11b7s_wbmf!19sChIJ5YHk1HWsNTERTm8J4m69teo?authuser=0&hl=en&rclk=1",
+        "main_category": "Convenience store",
+        "rating": 2.9,
+        "reviews": 22,
+        "website": null,
+        "phone": "0899 550 511",
+        "address": "Si\u00eau Th\u1ecb SIVIMART, 2A P. Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a, B\u00e1ch Khoa, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Si\u00eau Th\u1ecb M\u1eb9 & B\u00e9",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+Th%E1%BB%8B+M%E1%BA%B9+%26+B%C3%A9/data=!4m7!3m6!1s0x3135ab8abbed683b:0x2bf4fb59c075eaf7!8m2!3d21.0084816!4d105.8512984!16s%2Fg%2F11bccm7knb!19sChIJO2jtu4qrNTER9-p1wFn79Cs?authuser=0&hl=en&rclk=1",
+        "main_category": "Store",
+        "rating": null,
+        "reviews": null,
+        "website": null,
+        "phone": "024 6278 1594",
+        "address": "Si\u00eau Th\u1ecb M\u1eb9 & B\u00e9, 4 P. B\u1ea1ch Mai, C\u1ea7u D\u1ec1n, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Si\u00eau Th\u1ecb B\u1ebfp V\u0169 S\u01a1n - Hai B\u00e0 Tr\u01b0ng",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+Th%E1%BB%8B+B%E1%BA%BFp+V%C5%A9+S%C6%A1n+-+Hai+B%C3%A0+Tr%C6%B0ng/data=!4m7!3m6!1s0x3135ac703d607d05:0x1af83b14413025fd!8m2!3d20.9986455!4d105.8616644!16s%2Fg%2F1pv26hn5s!19sChIJBX1gPXCsNTER_SUwQRQ7-Bo?authuser=0&hl=en&rclk=1",
+        "main_category": "Kitchen supply store",
+        "rating": 4.4,
+        "reviews": 7,
+        "website": "http://bepvuson.vn/",
+        "phone": "0981 822 822",
+        "address": "Si\u00eau Th\u1ecb B\u1ebfp V\u0169 S\u01a1n - Hai B\u00e0 Tr\u01b0ng, 300 P. Kim Ng\u01b0u, Minh Khai, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 100000"
+    },
+    {
+        "title": "Unik Mart",
+        "link": "https://www.google.com/maps/place/Unik+Mart/data=!4m7!3m6!1s0x3135abb430e66cc1:0xc47f33df901d5f2b!8m2!3d21.0256032!4d105.8461774!16s%2Fg%2F11kbn9hq5w!19sChIJwWzmMLSrNTERK18dkN8zf8Q?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4.7,
+        "reviews": 3,
+        "website": null,
+        "phone": null,
+        "address": "Unik Mart, 49 P. Hai B\u00e0 Tr\u01b0ng, Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "WinMart+",
+        "link": "https://www.google.com/maps/place/WinMart%2B/data=!4m7!3m6!1s0x3135ac07b0ca49bd:0x672c12110522c5a3!8m2!3d21.0032022!4d105.8667205!16s%2Fg%2F11cjsjwtr8!19sChIJvUnKsAesNTERo8UiBRESLGc?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4.3,
+        "reviews": 23,
+        "website": null,
+        "phone": "024 7106 6866",
+        "address": "WinMart+, T\u1ea7ng 1. t\u00f2a chung c\u01b0, 230 P. L\u1ea1c Trung, Thanh L\u01b0\u01a1ng, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 11623"
+    },
+    {
+        "title": "\u1ed8p Mart - Si\u00eau th\u1ecb h\u00e0ng Nh\u1eadt",
+        "link": "https://www.google.com/maps/place/%E1%BB%98p+Mart+-+Si%C3%AAu+th%E1%BB%8B+h%C3%A0ng+Nh%E1%BA%ADt/data=!4m7!3m6!1s0x3135ad863c92c0f3:0xbc76b7156cff9f8c!8m2!3d20.9994797!4d105.8532242!16s%2Fg%2F11nnmy9_l_!19sChIJ88CSPIatNTERjJ__bBW3drw?authuser=0&hl=en&rclk=1",
+        "main_category": "Store",
+        "rating": 4.9,
+        "reviews": 11,
+        "website": "http://opmart.net/",
+        "phone": "0967 492 882",
+        "address": "\u1ed8p Mart - Si\u00eau th\u1ecb h\u00e0ng Nh\u1eadt, 85 P. B\u00f9i Ng\u1ecdc D\u01b0\u01a1ng, p, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Dalat Mart",
+        "link": "https://www.google.com/maps/place/Dalat+Mart/data=!4m7!3m6!1s0x3135ab21ba73301d:0x8ae8c04b70416ec4!8m2!3d21.020149!4d105.852156!16s%2Fg%2F11q91c5hx2!19sChIJHTBzuiGrNTERxG5BcEvA6Io?authuser=0&hl=en&rclk=1",
+        "main_category": "Grocery store",
+        "rating": 4.1,
+        "reviews": 14,
+        "website": "https://www.facebook.com/Si%C3%AAu-th%E1%BB%8B-th%E1%BB%B1c-ph%E1%BA%A9m-sa%CC%A3ch-Dalat-mart-262548067990929/",
+        "phone": "0833 501 881",
+        "address": "Dalat Mart, 55 P. H\u00e0ng B\u00e0i, H\u00e0ng B\u00e0i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Cinmart+",
+        "link": "https://www.google.com/maps/place/Cinmart%2B/data=!4m7!3m6!1s0x3135ad7fabbdb08b:0x5300d13a535e5527!8m2!3d21.0009644!4d105.8720182!16s%2Fg%2F11j5lmq3rs!19sChIJi7C9q3-tNTERJ1VeUzrRAFM?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": null,
+        "reviews": null,
+        "website": null,
+        "phone": null,
+        "address": "Cinmart+, 42 V\u0129nh Tuy, V\u0129nh Ph\u00fa, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Si\u00eau Th\u1ecb M\u1ed9c Mart",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+Th%E1%BB%8B+M%E1%BB%99c+Mart/data=!4m7!3m6!1s0x3135ad6d5e71d397:0x6ead8dd84815164b!8m2!3d20.9964372!4d105.863503!16s%2Fg%2F11kpz_s217!19sChIJl9NxXm2tNTERSxYVSNiNrW4?authuser=0&hl=en&rclk=1",
+        "main_category": "Organic food store",
+        "rating": null,
+        "reviews": null,
+        "website": "https://minhnguyengroup.vn/",
+        "phone": "0931 452 288",
+        "address": "Si\u00eau Th\u1ecb M\u1ed9c Mart, 378 P. Minh Khai, V\u0129nh Tuy, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 100000"
+    },
+    {
+        "title": "Dalat Mart",
+        "link": "https://www.google.com/maps/place/Dalat+Mart/data=!4m7!3m6!1s0x3135ab8961518cfb:0xc69114866de586e0!8m2!3d21.0172329!4d105.8557941!16s%2Fg%2F11mtjx69fl!19sChIJ-4xRYYmrNTER4IblbYYUkcY?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4.3,
+        "reviews": 30,
+        "website": null,
+        "phone": "024 3978 2583",
+        "address": "Dalat Mart, 31 P. L\u00f2 \u0110\u00fac, Ng\u00f4 Th\u00ec Nh\u1eadm, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Chloe's Mart",
+        "link": "https://www.google.com/maps/place/Chloe%27s+Mart/data=!4m7!3m6!1s0x3135ab48d0559fb1:0xb21d7806355be939!8m2!3d21.0092605!4d105.8488888!16s%2Fg%2F11n_y_yyx8!19sChIJsZ9V0EirNTEROelbNQZ4HbI?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 5,
+        "reviews": 1,
+        "website": null,
+        "phone": "0788 883 456",
+        "address": "Chloe's Mart, 338 P. B\u00e0 Tri\u1ec7u, L\u00ea \u0110\u1ea1i H\u00e0nh, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 10000"
+    },
+    {
+        "title": "Si\u00eau Th\u1ecb Nh\u1eadt B\u1ea3n ShikiMart",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+Th%E1%BB%8B+Nh%E1%BA%ADt+B%E1%BA%A3n+ShikiMart/data=!4m7!3m6!1s0x3135ab169b3e5be3:0x44dce0e113ac92e3!8m2!3d21.0161882!4d105.8513787!16s%2Fg%2F11jkvz_3wm!19sChIJ41s-mxarNTER45KsE-Hg3EQ?authuser=0&hl=en&rclk=1",
+        "main_category": "Hypermarket",
+        "rating": 4.3,
+        "reviews": 15,
+        "website": "http://shikimart.vn/",
+        "phone": "0967 779 666",
+        "address": "Si\u00eau Th\u1ecb Nh\u1eadt B\u1ea3n ShikiMart, 116 P. Hu\u1ebf, B\u00f9i Th\u1ecb Xu\u00e2n, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Si\u00eau Th\u1ecb Tr\u00e0 Vinatea",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+Th%E1%BB%8B+Tr%C3%A0+Vinatea/data=!4m7!3m6!1s0x3135abf1704bb271:0x6f8b816a3a378350!8m2!3d21.0150307!4d105.8587905!16s%2Fg%2F11g0tlkcs3!19sChIJcbJLcPGrNTERUIM3OmqBi28?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4.4,
+        "reviews": 5,
+        "website": "http://vinatea.com.vn/",
+        "phone": "0938 225 563",
+        "address": "Si\u00eau Th\u1ecb Tr\u00e0 Vinatea, 46 P. T\u0103ng B\u1ea1t H\u1ed5, Ph\u1ea1m \u0110\u00ecnh H\u1ed5, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 113267"
+    },
+    {
+        "title": "Si\u00eau thi\u0323 Intimex",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+thi%CC%A3+Intimex/data=!4m7!3m6!1s0x3135ad25ec0b8ceb:0x9fe89c47e8039e2!8m2!3d20.9991392!4d105.8532162!16s%2Fg%2F11fj45cygp!19sChIJ64wL7CWtNTER4jmAfsSJ_gk?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4.2,
+        "reviews": 13,
+        "website": null,
+        "phone": null,
+        "address": "Si\u00eau thi\u0323 Intimex, 89 P. B\u00f9i Ng\u1ecdc D\u01b0\u01a1ng, B\u1ea1ch Mai, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "DELI MART T03 Times City - SI\u00eau Th\u1ecb Th\u1ef1c Ph\u1ea9m S\u1ea1ch",
+        "link": "https://www.google.com/maps/place/DELI+MART+T03+Times+City+-+SI%C3%AAu+Th%E1%BB%8B+Th%E1%BB%B1c+Ph%E1%BA%A9m+S%E1%BA%A1ch/data=!4m7!3m6!1s0x3135ad1f3edfa771:0x2dd7af43b74a35a7!8m2!3d20.9963402!4d105.8685215!16s%2Fg%2F11lkmlkzms!19sChIJcaffPh-tNTERpzVKt0Ov1y0?authuser=0&hl=en&rclk=1",
+        "main_category": "Health food store",
+        "rating": 5,
+        "reviews": 2,
+        "website": null,
+        "phone": "0987 946 166",
+        "address": "DELI MART T03 Times City - SI\u00eau Th\u1ecb Th\u1ef1c Ph\u1ea9m S\u1ea1ch, 458 P. Minh Khai, V\u0129nh Ph\u00fa, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Ti\u1ec7m t\u1ea1p h\u00f3a Th\u1ea7n Th\u00e1nh",
+        "link": "https://www.google.com/maps/place/Ti%E1%BB%87m+t%E1%BA%A1p+h%C3%B3a+Th%E1%BA%A7n+Th%C3%A1nh/data=!4m7!3m6!1s0x3135ad138fa8fb2f:0x7c919ed23296bd66!8m2!3d21.0008668!4d105.8487704!16s%2Fg%2F11l2j_znrc!19sChIJL_uojxOtNTERZr2WMtKekXw?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 5,
+        "reviews": 1,
+        "website": null,
+        "phone": null,
+        "address": "Ti\u1ec7m t\u1ea1p h\u00f3a Th\u1ea7n Th\u00e1nh, 110k2 Ng. 48 P. T\u1ea1 Quang B\u1eedu, Khu t\u1eadp th\u1ec3 B\u00e1ch Khoa, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Michi mart",
+        "link": "https://www.google.com/maps/place/Michi+mart/data=!4m7!3m6!1s0x3135ac1b66124ed1:0xc5dfd046d5cd7f40!8m2!3d20.99247!4d105.8695709!16s%2Fg%2F11fzb174rz!19sChIJ0U4SZhusNTERQH_N1UbQ38U?authuser=0&hl=en&rclk=1",
+        "main_category": "Convenience store",
+        "rating": 4.3,
+        "reviews": 4,
+        "website": null,
+        "phone": "1900 636999",
+        "address": "Michi mart, Park3, Khu \u0111\u00f4 th\u1ecb Times City, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Sakuko Store Time City",
+        "link": "https://www.google.com/maps/place/Sakuko+Store+Time+City/data=!4m7!3m6!1s0x3135ac1b5e34ea3f:0xb26251a0461862ce!8m2!3d20.9929987!4d105.8695398!16s%2Fg%2F11hbnt5_8z!19sChIJP-o0XhusNTERzmIYRqBRYrI?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4.2,
+        "reviews": 17,
+        "website": "http://sakukostore.com.vn/",
+        "phone": "1800 0010",
+        "address": "Sakuko Store Time City, T\u1ea7ng 1 Park II, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "\u0110i\u1ec7n M\u00e1y Xanh Minh Khai",
+        "link": "https://www.google.com/maps/place/%C4%90i%E1%BB%87n+M%C3%A1y+Xanh+Minh+Khai/data=!4m7!3m6!1s0x3135ad3f54e5792b:0xf6f62944c683aa77!8m2!3d20.9975991!4d105.8652871!16s%2Fg%2F11hzwdpzfc!19sChIJK3nlVD-tNTERd6qDxkQp9vY?authuser=0&hl=en&rclk=1",
+        "main_category": "Electronics store",
+        "rating": 4.4,
+        "reviews": 182,
+        "website": "https://www.dienmayxanh.com/?utm_source=GMB_list&utm_medium=organic&utm_campaign=GMB_website",
+        "phone": "028 3948 6789",
+        "address": "\u0110i\u1ec7n M\u00e1y Xanh Minh Khai, ng\u00f5 349 P. Minh Khai, V\u0129nh Tuy, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 10000"
+    },
+    {
+        "title": "Si\u00eau Th\u1ecb M2K",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+Th%E1%BB%8B+M2K/data=!4m7!3m6!1s0x3135ab8cfd37349f:0xbb80a7fb2b9efd19!8m2!3d21.0160767!4d105.8502376!16s%2Fg%2F1s04czq_w!19sChIJnzQ3_YyrNTERGf2eK_ungLs?authuser=0&hl=en&rclk=1",
+        "main_category": "Shopping mall",
+        "rating": 3.5,
+        "reviews": 11,
+        "website": null,
+        "phone": "024 3944 8408",
+        "address": "Si\u00eau Th\u1ecb M2K, 103, \u0110\u01b0\u1eddng Tri\u1ec7u Vi\u1ec7t V\u01b0\u01a1ng, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng, B\u00f9i Th\u1ecb Xu\u00e2n, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ocity",
+        "link": "https://www.google.com/maps/place/C%C3%B4ng+ty+C%E1%BB%95+ph%E1%BA%A7n+Ocity/data=!4m7!3m6!1s0x3135ab483fd71fe9:0x16b65c9017f5425a!8m2!3d21.0073769!4d105.8644976!16s%2Fg%2F11hdn_s_m5!19sChIJ6R_XP0irNTERWkL1F5BcthY?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": null,
+        "reviews": null,
+        "website": null,
+        "phone": "0866 464 688",
+        "address": "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ocity, 42 Tr\u1ea7n Kh\u00e1t Ch\u00e2n, Thanh L\u01b0\u01a1ng, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Sakuko Store Nguy\u1ec5n Du",
+        "link": "https://www.google.com/maps/place/Sakuko+Store+Nguy%E1%BB%85n+Du/data=!4m7!3m6!1s0x3135ab91d9d41ae9:0x867fe77d0d2a3743!8m2!3d21.0198085!4d105.844709!16s%2Fg%2F11dxdc46z5!19sChIJ6RrU2ZGrNTERQzcqDX3nf4Y?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4.2,
+        "reviews": 114,
+        "website": "http://sakukostore.com.vn/",
+        "phone": "024 6681 0606",
+        "address": "Sakuko Store Nguy\u1ec5n Du, 76 P. Nguy\u1ec5n Du, Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "WinMart+",
+        "link": "https://www.google.com/maps/place/WinMart%2B/data=!4m7!3m6!1s0x3135ac0b72b52f5f:0xec7bbe13ef177e!8m2!3d21.0026915!4d105.8547871!16s%2Fg%2F11cn5fkmh7!19sChIJXy-1cgusNTERfhfvE7577AA?authuser=0&hl=en&rclk=1",
+        "main_category": "Grocery store",
+        "rating": 4.4,
+        "reviews": 30,
+        "website": null,
+        "phone": "024 7106 6866",
+        "address": "WinMart+, 227 P. Thanh Nh\u00e0n, Qu\u1ef3nh L\u00f4i, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 11624"
+    },
+    {
+        "title": "SI\u00caU TH\u1eca MINITI",
+        "link": "https://www.google.com/maps/place/SI%C3%8AU+TH%E1%BB%8A+MINITI/data=!4m7!3m6!1s0x3135abd245a2ec6f:0x19aded1711a234e2!8m2!3d21.0094221!4d105.8563506!16s%2Fg%2F11h103c01n!19sChIJb-yiRdKrNTER4jSiERftrRk?authuser=0&hl=en&rclk=1",
+        "main_category": "Home goods store",
+        "rating": 3.7,
+        "reviews": 29,
+        "website": null,
+        "phone": "0906 933 696",
+        "address": "SI\u00caU TH\u1eca MINITI, 410 Tr\u1ea7n Kh\u00e1t Ch\u00e2n, Thanh Nh\u00e0n, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Si\u00eau Th\u1ecb Intimex L\u1ea1c Trung",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+Th%E1%BB%8B+Intimex+L%E1%BA%A1c+Trung/data=!4m7!3m6!1s0x3135ac08f09f6dbf:0x6a42bb22b0d83c46!8m2!3d21.0031154!4d105.8620954!16s%2Fg%2F11h0vtkczj!19sChIJv22f8AisNTERRjzYsCK7Qmo?authuser=0&hl=en&rclk=1",
+        "main_category": "Grocery store",
+        "rating": null,
+        "reviews": null,
+        "website": null,
+        "phone": null,
+        "address": "Si\u00eau Th\u1ecb Intimex L\u1ea1c Trung, 27 P. L\u1ea1c Trung, Thanh L\u01b0\u01a1ng, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Media Mart",
+        "link": "https://www.google.com/maps/place/Media+Mart/data=!4m7!3m6!1s0x3135ab9353b92773:0xe1f7ac96dd51ddfc!8m2!3d21.024238!4d105.852186!16s%2Fg%2F1wg5vglr!19sChIJcye5U5OrNTER_N1R3Zas9-E?authuser=0&hl=en&rclk=1",
+        "main_category": "Electronics store",
+        "rating": 3.7,
+        "reviews": 822,
+        "website": "http://mediamart.vn/",
+        "phone": "024 3936 6366",
+        "address": "Media Mart, 29F P. Hai B\u00e0 Tr\u01b0ng, H\u00e0ng B\u00e0i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "CH: H\u1ea3i S\u1ea3n Bi\u1ec3n Qu\u1ef3nh(0963195988)",
+        "link": "https://www.google.com/maps/place/CH:+H%E1%BA%A3i+S%E1%BA%A3n+Bi%E1%BB%83n+Qu%E1%BB%B3nh%280963195988%29/data=!4m7!3m6!1s0x3135ad7a531f4f93:0x98c0ed2f3d237c65!8m2!3d21.0013103!4d105.8699433!16s%2Fg%2F11gsbrv8cx!19sChIJk08fU3qtNTERZXwjPS_twJg?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 5,
+        "reviews": 1,
+        "website": null,
+        "phone": "0963 195 988",
+        "address": "CH: H\u1ea3i S\u1ea3n Bi\u1ec3n Qu\u1ef3nh(0963195988), 800 P. Minh Khai, V\u0129nh Tuy, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "WinMart+",
+        "link": "https://www.google.com/maps/place/WinMart%2B/data=!4m7!3m6!1s0x3135ac0d6d6a42db:0x857ba3b85a4ca915!8m2!3d20.996691!4d105.854481!16s%2Fg%2F11fw_225xm!19sChIJ20JqbQ2sNTERFalMWrije4U?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 3,
+        "reviews": 6,
+        "website": null,
+        "phone": "024 7106 6866",
+        "address": "WinMart+, T\u1ea7ng 1 t\u00f2a nh\u00e0 CT1 - Khu nh\u00e0 \u1edf cao c\u1ea5p Skylight, 125D P. Minh Khai, Minh Khai, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 11619"
+    },
+    {
+        "title": "Si\u00eau th\u1ecb FujiMart L\u00ea Du\u1ea9n",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+th%E1%BB%8B+FujiMart+L%C3%AA+Du%E1%BA%A9n/data=!4m7!3m6!1s0x3135ab8c9628a147:0x193c859fd7fca3c0!8m2!3d21.0184658!4d105.841183!16s%2Fg%2F11btrrzcb2!19sChIJR6EoloyrNTERwKP815-FPBk?authuser=0&hl=en&rclk=1",
+        "main_category": "Supermarket",
+        "rating": 4.2,
+        "reviews": 776,
+        "website": "http://fujimart.vn/",
+        "phone": "024 3220 2431",
+        "address": "Si\u00eau th\u1ecb FujiMart L\u00ea Du\u1ea9n, 142 \u0110. L\u00ea Du\u1ea9n, Kh\u00e2m Thi\u00ean, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Si\u00eau th\u1ecb Smartphone",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+th%E1%BB%8B+Smartphone/data=!4m7!3m6!1s0x3135abf5383a5cf3:0x2fc73f5a922d1490!8m2!3d21.0089168!4d105.8531744!16s%2Fg%2F11fxyf15cl!19sChIJ81w6OPWrNTERkBQtklo_xy8?authuser=0&hl=en&rclk=1",
+        "main_category": "Cell phone store",
+        "rating": 4.2,
+        "reviews": 82,
+        "website": "http://sieuthismartphone.com/",
+        "phone": "0933 500 555",
+        "address": "Si\u00eau th\u1ecb Smartphone, 500 Tr\u1ea7n Kh\u00e1t Ch\u00e2n, Ph\u1ed1 Hu\u1ebf, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 100000"
+    },
+    {
+        "title": "Si\u00eau Th\u1ecb \u0110i\u1ec7n",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+Th%E1%BB%8B+%C4%90i%E1%BB%87n/data=!4m7!3m6!1s0x3135abf34d60d3d9:0xfb5d9e8964b2910f!8m2!3d21.0137368!4d105.8524951!16s%2Fg%2F11c5ss6j1k!19sChIJ2dNgTfOrNTERD5GyZImeXfs?authuser=0&hl=en&rclk=1",
+        "main_category": "Electrical supply store",
+        "rating": null,
+        "reviews": null,
+        "website": null,
+        "phone": "0972 929 416",
+        "address": "Si\u00eau Th\u1ecb \u0110i\u1ec7n, 32 Nguy\u1ec5n C\u00f4ng Tr\u1ee9, Ng\u00f4 Th\u00ec Nh\u1eadm, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 100000"
+    },
+    {
+        "title": "Si\u00eau th\u1ecb \u0111i\u1ec7n m\u00e1y Dnmart",
+        "link": "https://www.google.com/maps/place/Si%C3%AAu+th%E1%BB%8B+%C4%91i%E1%BB%87n+m%C3%A1y+Dnmart/data=!4m7!3m6!1s0x3135ac0719844017:0xa8a24a00eb816c1c!8m2!3d21.0034074!4d105.8683262!16s%2Fg%2F11hbgj2k2t!19sChIJF0CEGQesNTERHGyB6wBKoqg?authuser=0&hl=en&rclk=1",
+        "main_category": "Electronics store",
+        "rating": 3,
+        "reviews": 1,
+        "website": "http://dnmart.vn/",
+        "phone": "0984 861 786",
+        "address": "2V39+988 Si\u00eau th\u1ecb \u0111i\u1ec7n m\u00e1y Dnmart, Ng. 651 P. Minh Khai, Thanh L\u01b0\u01a1ng, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "WinMart",
+        "link": "https://www.google.com/maps/place/WinMart/data=!4m7!3m6!1s0x3135ad1842d4bf7d:0x60bc3a5022dcd7cf!8m2!3d21.0036213!4d105.855376!16s%2Fg%2F11kj_5hw7q!19sChIJfb_UQhitNTERz9fcIlA6vGA?authuser=0&hl=en&rclk=1",
+        "main_category": "Grocery store",
+        "rating": 3.9,
+        "reviews": 8,
+        "website": null,
+        "phone": "024 7106 6866",
+        "address": "WinMart, 99 P. V\u00f5 Th\u1ecb S\u00e1u, Thanh Nh\u00e0n, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    },
+    {
+        "title": "Digicity Electronics",
+        "link": "https://www.google.com/maps/place/Digicity+Electronics/data=!4m7!3m6!1s0x3135ac0b0d16ed57:0xc136d4c2dd6a4ac5!8m2!3d21.0030284!4d105.8547393!16s%2Fg%2F11gzt86_t!19sChIJV-0WDQusNTERxUpq3cLUNsE?authuser=0&hl=en&rclk=1",
+        "main_category": "Electronics store",
+        "rating": 4.2,
+        "reviews": 11,
+        "website": "http://digicity.vn/",
+        "phone": "1900 6662",
+        "address": "Digicity Electronics, 221 P. Thanh Nh\u00e0n, Thanh Nh\u00e0n, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i"
+    }
+]
